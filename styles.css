@@ -3,3 +3,8 @@ body{
     background:darkgray;
     text-align: center;
 }
+
+li {
+    width: 20%;
+    float: left;
+    }

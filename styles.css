@@ -19,3 +19,14 @@ body{
   .menu-button:hover {
     background-color: #2980b9; /* Darker background color on hover */
   }
+
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Use flexbox */
+  }
+  
+  nav ul li {
+    margin-right: 10px; /* Adjust margin between buttons */
+  }

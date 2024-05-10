@@ -4,7 +4,18 @@ body{
     text-align: center;
 }
 
-li {
-    width: 20%;
-    float: left;
-    }
+.menu-button {
+    display: inline-block;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Button text color */
+    text-decoration: none; /* Remove underline */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border radius for rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  .menu-button:hover {
+    background-color: #2980b9; /* Darker background color on hover */
+  }

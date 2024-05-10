@@ -11,5 +11,14 @@
     <a href="/blender.html">Blender Page</a>
     <a href="/unity.html">Unity Page</a>
     <p>SomrD</p>
+
+    <script>
+        // Fetch and include the menu content
+        fetch('menu.html')
+          .then(response => response.text())
+          .then(html => {
+            document.getElementById('menu').innerHTML = html;
+          });
+      </script>
 </body>
 </html>

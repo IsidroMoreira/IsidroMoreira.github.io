@@ -2,7 +2,8 @@ body{
     margin: 0;
     background:rgb(13, 9, 9);
     text-align: center;
-    color: azure;
+    color:gray;
+    font-family: sans-serif;
 }
 
 .menu-button {
@@ -30,4 +31,8 @@ body{
   
   nav ul li {
     margin-right: 10px; /* Adjust margin between buttons */
+  }
+
+  title {
+    color:#2980b9
   }

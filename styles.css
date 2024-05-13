@@ -2,8 +2,10 @@ body{
     margin: 0;
     background:rgb(13, 9, 9);
     text-align: center;
-    color:gray;
     font-family: sans-serif;
+}
+h3{
+  color: gray;
 }
 
 .menu-button {
@@ -33,6 +35,6 @@ body{
     margin-right: 10px; /* Adjust margin between buttons */
   }
 
-  title {
+  #Title {
     color:#2980b9
   }

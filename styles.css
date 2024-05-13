@@ -4,6 +4,7 @@ body{
     text-align: center;
     font-family: sans-serif;
 }
+
 h3{
   color: gray;
 }
@@ -35,6 +36,6 @@ h3{
     margin-right: 10px; /* Adjust margin between buttons */
   }
 
-  #Title {
+  .Title {
     color:#2980b9
   }

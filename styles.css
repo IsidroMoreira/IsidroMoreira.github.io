@@ -6,7 +6,7 @@ body{
 }
 
 h3{
-  color: gray;
+  color: rgb(215, 205, 205);
   font-family: sans-serif;
 }
 
@@ -37,6 +37,7 @@ h3{
     margin-right: 10px; /* Adjust margin between buttons */
   }
 
-  strong { font-weight: bold; }
+  strong { 
+    font-weight: bold; }
 
    

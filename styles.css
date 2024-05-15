@@ -57,6 +57,7 @@ h1{
   .container {
     width: 100%; /* Set a width if you want the container to take up only a portion of the screen */
     padding: 20px; /* Optional: Add padding for spacing */
+    text-align: center;
 }
 
 .video {
@@ -64,8 +65,8 @@ h1{
 }
 
 .responsive-video {
-  width: 50%; /* Adjust the width as needed */
-  max-width: 50%; /* Ensure videos don't exceed 100% of their container */
+  width: 80%; /* Adjust the width as needed */
+  max-width: 80%; /* Ensure videos don't exceed 100% of their container */
   height: auto; /* Maintain aspect ratio */
 }
 

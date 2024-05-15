@@ -3,17 +3,17 @@ body{
     background:rgb(13, 9, 9);
     text-align: left;
     font-family: sans-serif;
+    display: flex; justify-content: left;
 }
 
 h3{
   color: rgb(215, 205, 205);
   font-family: sans-serif;
-  text-align: left;
 }
+
 h2{
   color:rgb(133, 127, 255);
   font-family: sans-serif;
-  text-align: left;
 }
 
 .menu-button {

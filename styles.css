@@ -65,8 +65,8 @@ h1{
 }
 
 .responsive-video {
-  width: 80%; /* Adjust the width as needed */
-  max-width: 80%; /* Ensure videos don't exceed 100% of their container */
+  width: 50%; /* Adjust the width as needed */
+  max-width: 50%; /* Ensure videos don't exceed 100% of their container */
   height: auto; /* Maintain aspect ratio */
 }
 

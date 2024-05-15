@@ -1,5 +1,5 @@
 body{
-  margin-left: 100px;
+    margin-left: 15px;
     background:rgb(13, 9, 9);
     text-align: left;
     font-family: sans-serif;
@@ -49,6 +49,19 @@ h1{
   nav ul li {
     margin-right: 10px; /* Adjust margin between buttons */
   }
+
+  .mini-Title{
+    color:rgb(183, 0, 255)
+  }
+
+  .container {
+    width: 100%; /* Set a width if you want the container to take up only a portion of the screen */
+    padding: 20px; /* Optional: Add padding for spacing */
+}
+
+.video {
+  margin-bottom: 20px; /* Optional: Add margin between videos */
+}
 
 
    

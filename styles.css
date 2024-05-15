@@ -63,5 +63,11 @@ h1{
   margin-bottom: 20px; /* Optional: Add margin between videos */
 }
 
+.responsive-video {
+  width: 50%; /* Adjust the width as needed */
+  max-width: 50%; /* Ensure videos don't exceed 100% of their container */
+  height: auto; /* Maintain aspect ratio */
+}
+
 
    

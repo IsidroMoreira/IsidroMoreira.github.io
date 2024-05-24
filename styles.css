@@ -16,7 +16,7 @@ h2{
   font-family: sans-serif;
 }
 h1{
-  color: rgb(72, 125, 211);
+  color: rgba(72, 125, 211, 0.63);
 }
 
 .Title{
@@ -51,7 +51,7 @@ h1{
   }
 
   .mini-Title{
-    color:#552828
+    color:#802626
   }
 
   .container {
